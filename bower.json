@@ -6,6 +6,6 @@
     "ember-qunit-notifications": "0.1.0"
   },
   "devDependencies": {
-    "chartist": "~0.9.1"
+    "chartist": "arvinsingla/chartist-js#20d4421358753e3a1b6dfb1450a97999fb51b9b9"
   }
 }
